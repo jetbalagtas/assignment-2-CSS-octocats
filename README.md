@@ -2,7 +2,7 @@
 
 ## Quick note from Jet
 
-This repo was originally inside another "TIYLessons" repo. It's still there. I just moved a copy of it to its own repo for easier discovery. Based on the [old location](https://github.com/jetbalagtas/TIYLessons), work was done Oct. 7, 2015. This was our first assignment for our 12-week bootcamp. No other edits have been made except for this new README file. Thanks for checking it out!
+This repo was originally inside another "TIYLessons" repo. It's still there. I just moved a copy of it to its own repo for easier discovery. Based on the [old location](https://github.com/jetbalagtas/TIYLessons), work was done Oct. 7, 2015. This was our second assignment for our 12-week bootcamp. No other edits have been made except for this new README file. Thanks for checking it out!
 
 ## Description
 CSS Layout is one of the most important things to learn early on. This exercise helps you learn that
